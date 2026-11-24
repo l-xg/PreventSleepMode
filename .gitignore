@@ -1,0 +1,20 @@
+# Build outputs
+PreventSleepMode.exe
+*.obj
+*.res
+*.pdb
+*.ilk
+
+# Visual Studio
+.vs/
+Debug/
+Release/
+x64/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS / editor
+Thumbs.db
+desktop.ini
